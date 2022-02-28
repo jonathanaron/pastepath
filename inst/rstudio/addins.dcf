@@ -1,0 +1,5 @@
+Name: Format file path
+Description: Convert text either from the clipboard or in a script into a well-formatted file paths
+Binding: to_path
+Interactive: false
+
